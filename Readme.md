@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 <!-- default file list end -->
 # ASPxGridView - Batch Edit mode - How to calculate group summaries on the fly
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t448181/)**
+<!-- run online end -->
 
 
 <p>This example is created based on the <a href="https://www.devexpress.com/Support/Center/p/T114923">ASPxGridView - How to update total summaries on the client side in Batch Edit mode</a> example and demonstrates how to update the group summary on the client side immediately after cell editing in Batch Edit mode. </p>
